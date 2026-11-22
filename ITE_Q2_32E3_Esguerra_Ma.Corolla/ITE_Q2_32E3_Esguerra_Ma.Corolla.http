@@ -1,0 +1,6 @@
+@ITE_Q2_32E3_Esguerra_Ma.Corolla_HostAddress = http://localhost:5180
+
+GET {{ITE_Q2_32E3_Esguerra_Ma.Corolla_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
